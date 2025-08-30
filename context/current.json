@@ -1,0 +1,12 @@
+{
+  "project": "scott-sitzer",
+  "working_directory": "/home/scott-sitzer",
+  "git_branch": "not_git",
+  "timestamp": "2025-08-30T11:56:10-04:00",
+  "files_count": 49939,
+  "language_stats": {},
+  "patterns": [],
+  "context_sources": [
+  "CLAUDE.md"
+]
+}

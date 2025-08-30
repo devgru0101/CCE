@@ -1,0 +1,52 @@
+{
+  "project": "frontend",
+  "working_directory": "/home/scott-sitzer/Projects/Vaporform/frontend",
+  "git_branch": "main",
+  "timestamp": "2025-08-30T16:30:06-04:00",
+  "file_statistics": {
+    "total_source_files": 325
+  },
+  "error_data": {},
+  "build_status": "built",
+  "database_schema": {},
+  "test_status": "tests_configured",
+  "recent_commits": [
+  {
+    "hash": "5c5e4cb",
+    "message": "feat: consolidate databases and fix project wizard",
+    "date": "2025-08-22",
+    "author": "Scotty"
+  },
+  {
+    "hash": "0cd01f8",
+    "message": "feat: Complete authentication system and backend service overhaul",
+    "date": "2025-08-22",
+    "author": "Scotty"
+  },
+  {
+    "hash": "e6449c0",
+    "message": "Complete project creation modal system with Encore.ts backend",
+    "date": "2025-08-22",
+    "author": "Scotty"
+  },
+  {
+    "hash": "1d95a4a",
+    "message": "docs: Complete README overhaul with system dependencies and configuration",
+    "date": "2025-08-21",
+    "author": "Scotty"
+  },
+  {
+    "hash": "4c7ba13",
+    "message": "chore: Update project configuration and documentation",
+    "date": "2025-08-21",
+    "author": "Scotty"
+  }
+],
+  "patterns": [],
+  "context_quality_score": 0,
+  "session_continuity": {
+    "previous_session_id": "20250830_115558",
+    "tasks_completed": 0,
+    "tasks_failed": 0
+  }
+}
