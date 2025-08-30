@@ -1,0 +1,38 @@
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Ignore runtime/cache files
+*.log
+tmp/
+cache/
+.cache/
+
+# Ignore sensitive files
+*.key
+*.pem
+.credentials.json
+.env
+.env.local
+
+# Ignore test artifacts
+test-output/
+coverage/
+.nyc_output/
+
+# Ignore backup files
+*.backup
+*.bak
+*~
